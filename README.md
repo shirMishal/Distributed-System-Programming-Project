@@ -1,6 +1,7 @@
 Distributed System Programming Project
 
-#Skills: 
+#Skills:
+
 Java, OOP, AWS, CoreNLP, Windows
 
 #Description: 
